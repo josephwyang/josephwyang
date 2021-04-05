@@ -1,0 +1,5 @@
+- 👋 hi, I’m Joseph!
+- 👀 I’m interested in coding and music.
+- 🌱 I’m currently learning how to code.
+- 💞️ I’m looking to collaborate on ...
+- 📫 email: josephwyang@gmail.com
